@@ -1,1 +1,1 @@
-# COVID-19-Data-Repository
+# COVID-19 Data Repository
