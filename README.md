@@ -1,3 +1,3 @@
 # COVID-19 Data Repository
 
-A curated list of data sources on COVID-19.
+A curated list of datasets on COVID-19.
