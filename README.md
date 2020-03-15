@@ -23,6 +23,7 @@ Current list of sources:
 | Aggregator | Website | Country | Automated |
 |--|--|--|--|
 | Johns Hopkins CSSE | [https://systems.jhu.edu](https://systems.jhu.edu) | USA | Yes |
+| MIDAS Network | [https://midasnetwork.us](https://midasnetwork.us) | USA | Yes |
 
 ## Documents
 
