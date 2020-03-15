@@ -19,11 +19,11 @@ Current list of sources:
 
 Aggregators cointain datasets with multiple sources, like the John Hopkins CSSE.
 
-Current list of sources:
-| Aggregator | Website | Country | Automated |
-|--|--|--|--|
-| Johns Hopkins CSSE | [https://systems.jhu.edu](https://systems.jhu.edu) | USA | Yes |
-| MIDAS Network | [https://midasnetwork.us](https://midasnetwork.us) | USA | Yes |
+Current list of aggregators:
+| Aggregator | Website | Country | Source Url | Automated |
+|--|--|--|--|--|
+| Johns Hopkins CSSE | [https://systems.jhu.edu](https://systems.jhu.edu) | USA | [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) |Yes |
+| MIDAS Network | [https://midasnetwork.us](https://midasnetwork.us) | USA | [https://github.com/midas-network/COVID-19](https://github.com/midas-network/COVID-19) |Yes |
 
 ## Documents
 
