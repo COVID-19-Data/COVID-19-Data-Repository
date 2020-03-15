@@ -14,6 +14,7 @@ Current list of sources:
 | World Health Organisation | [https://www.who.int](https://www.who.int) | Worldwide |
 | Centers of Disease Control & Prevention | [https://www.cdc.gov](https://www.cdc.gov)| USA |
 | Rijksinstituut voor Volksgezondheid en Milieu | [https://www.rivm.nl](https://www.rivm.nl)| The Netherlands
+| Ministero della Salute | https://www.salute.gov.it](https://www.salute.gov.it) | Italy
 
 ## Aggregators
 
