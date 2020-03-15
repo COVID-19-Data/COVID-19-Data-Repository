@@ -8,9 +8,21 @@ Furthermore the repository contains importer scripts to automatically update the
 
 Sources contain original datasets, mainly from Governments or NGO's.
 
+Current list of sources:
+| Source | Website | Country |
+|--|--|--|
+| World Health Organisation | [https://www.who.int](https://www.who.int) | Worldwide |
+| Centers of Disease Control & Prevention | [https://www.cdc.gov](https://www.cdc.gov)| USA |
+| Rijksinstituut voor Volksgezondheid en Milieu | [https://www.rivm.nl](https://www.rivm.nl)| The Netherlands
+
 ## Aggregators
 
-Aggregators cointain datasets with multiple sources, like the John Hopkins Institute.
+Aggregators cointain datasets with multiple sources, like the John Hopkins CSSE.
+
+Current list of sources:
+| Aggregator | Website | Country | Automated |
+|--|--|--|
+| Johns Hopkins CSSE | [https://systems.jhu.edu](https://systems.jhu.edu) | USA | Yes |
 
 ## Documents
 
