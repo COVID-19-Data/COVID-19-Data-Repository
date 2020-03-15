@@ -14,15 +14,18 @@ Current list of sources:
 | World Health Organisation | [https://www.who.int](https://www.who.int) | Worldwide |
 | Centers of Disease Control & Prevention | [https://www.cdc.gov](https://www.cdc.gov)| USA |
 | Rijksinstituut voor Volksgezondheid en Milieu | [https://www.rivm.nl](https://www.rivm.nl)| The Netherlands
+| Ministero della Salute | [https://www.salute.gov.it](https://www.salute.gov.it) | Italy
 
 ## Aggregators
 
 Aggregators cointain datasets with multiple sources, like the John Hopkins CSSE.
 
-Current list of sources:
-| Aggregator | Website | Country | Automated |
-|--|--|--|--|
-| Johns Hopkins CSSE | [https://systems.jhu.edu](https://systems.jhu.edu) | USA | Yes |
+Current list of aggregators:
+| Aggregator | Website | Country | Source Url | Automated |
+|--|--|--|--|--|
+| Johns Hopkins CSSE | [https://systems.jhu.edu](https://systems.jhu.edu) | USA | [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) |Yes |
+| MIDAS Network | [https://midasnetwork.us](https://midasnetwork.us) | USA | [https://github.com/midas-network/COVID-19](https://github.com/midas-network/COVID-19) |Yes |
+| Our World in Data | [https://ourworldindata.org](https://ourworldindata.org) | UK | [https://ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus) |No |
 
 ## Documents
 
