@@ -21,7 +21,7 @@ Aggregators cointain datasets with multiple sources, like the John Hopkins CSSE.
 
 Current list of sources:
 | Aggregator | Website | Country | Automated |
-|--|--|--|
+|--|--|--|--|
 | Johns Hopkins CSSE | [https://systems.jhu.edu](https://systems.jhu.edu) | USA | Yes |
 
 ## Documents
