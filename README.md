@@ -24,6 +24,7 @@ Current list of aggregators:
 |--|--|--|--|--|
 | Johns Hopkins CSSE | [https://systems.jhu.edu](https://systems.jhu.edu) | USA | [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) |Yes |
 | MIDAS Network | [https://midasnetwork.us](https://midasnetwork.us) | USA | [https://github.com/midas-network/COVID-19](https://github.com/midas-network/COVID-19) |Yes |
+| Our World in Data | [https://ourworldindata.org](https://ourworldindata.org) | UK | [https://ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus) |No |
 
 ## Documents
 
