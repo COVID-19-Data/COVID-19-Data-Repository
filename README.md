@@ -11,7 +11,6 @@ Sources contain original datasets, mainly from Governments or NGO's.
 Current list of sources:
 | Source | Website | Country |
 |--|--|--|
-| World Health Organisation | [https://www.who.int](https://www.who.int) | Worldwide |
 | Centers of Disease Control & Prevention | [https://www.cdc.gov](https://www.cdc.gov)| USA |
 | Rijksinstituut voor Volksgezondheid en Milieu | [https://www.rivm.nl](https://www.rivm.nl)| The Netherlands
 | Ministero della Salute | [https://www.salute.gov.it](https://www.salute.gov.it) | Italy
@@ -24,6 +23,7 @@ Aggregators cointain datasets with multiple sources, like the John Hopkins CSSE.
 Current list of aggregators:
 | Aggregator | Website | Country | Source Url | Automated |
 |--|--|--|--|--|
+| World Health Organisation | [https://www.who.int](https://www.who.int) | Worldwide | | No |
 | Johns Hopkins CSSE | [https://systems.jhu.edu](https://systems.jhu.edu) | USA | [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) |Yes |
 | MIDAS Network | [https://midasnetwork.us](https://midasnetwork.us) | USA | [https://github.com/midas-network/COVID-19](https://github.com/midas-network/COVID-19) |Yes |
 | Our World in Data | [https://ourworldindata.org](https://ourworldindata.org) | UK | [https://ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus) |No |
