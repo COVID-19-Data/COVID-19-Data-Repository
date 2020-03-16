@@ -15,6 +15,7 @@ Current list of sources:
 | Centers of Disease Control & Prevention | [https://www.cdc.gov](https://www.cdc.gov)| USA |
 | Rijksinstituut voor Volksgezondheid en Milieu | [https://www.rivm.nl](https://www.rivm.nl)| The Netherlands
 | Ministero della Salute | [https://www.salute.gov.it](https://www.salute.gov.it) | Italy
+| Ministerios de Sanidad | [https://www.mscbs.gob.es](https://www.mscbs.gob.es) | Spain
 
 ## Aggregators
 
