@@ -15,6 +15,7 @@ Current list of sources:
 | Rijksinstituut voor Volksgezondheid en Milieu | [https://www.rivm.nl](https://www.rivm.nl)| The Netherlands
 | Ministero della Salute | [https://www.salute.gov.it](https://www.salute.gov.it) | Italy
 | Ministerios de Sanidad | [https://www.mscbs.gob.es](https://www.mscbs.gob.es) | Spain
+| Robert Koch Institute | [https://www.rki.de](https://www.rki.de) | Germany
 
 ## Aggregators
 
