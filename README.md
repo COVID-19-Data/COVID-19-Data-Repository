@@ -28,6 +28,9 @@ Current list of sources:
 | Ministero della Salute | [https://www.salute.gov.it](https://www.salute.gov.it) | Italy
 | Ministerios de Sanidad | [https://www.mscbs.gob.es](https://www.mscbs.gob.es) | Spain
 | Robert Koch Institute | [https://www.rki.de](https://www.rki.de) | Germany
+| Ministère Solidarites-Santé | [https://www.santepubliquefrance.fr](https://www.santepubliquefrance.fr) | France
+| Ministry of Health Singapore |[https://www.moh.gov.sg](https://www.moh.gov.sg)| Singapore
+|Ministry of Health and Welfare South Korea |[https://www.mohw.go.kr](https://www.mohw.go.kr)| South Korea
 
 ## Aggregators
 
