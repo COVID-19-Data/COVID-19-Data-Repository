@@ -1,8 +1,20 @@
 # COVID-19 Data Repository
 
-A curated list of datasets on COVID-19. Currently we're distinguishing between sources, aggregators & documents.
+The current rate of the COVID-19 virus spreading is alarming, and the community is still trying to get a grasp on what exactly is needed to fight this disease and prepare for the future.
+
+People in the medical world are asking the tech community for help to provide solutions. The way we're trying to help is to make sure that all the data that is there is available in easy ways for research. We're trying do this in a few diferent ways:
+
+- Collect all the data from sources like NGO's and governments
+- Convert the sources to CSV format
+- Validate, sanitize & normalize the data
+- Categorise the data and create useable datasets for research
+- Make the data available by creating packages for data analysis tools frameworks and languages like R, Python (pip), Matlab and SPSS
+
+Currently we're distinguishing between sources, aggregators & some relevant research documents.
 
 Furthermore the repository contains importer scripts to automatically update the datasets in the repository on a regular basis.
+
+Feel free to reach out if you want to contribute, learn more or help in any other way. We have a slack channel for everyone interested in joining: [https://join.slack.com/t/covid19data/shared_invite/zt-cn3usek1-QJGmq5MJRi20ZmLQPaO2pg](https://join.slack.com/t/covid19data/shared_invite/zt-cn3usek1-QJGmq5MJRi20ZmLQPaO2pg).
 
 ## Sources
 
