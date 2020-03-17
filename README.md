@@ -1,6 +1,6 @@
 # COVID-19 Data Repository
 
-The current rate of the COVID-19 virus spreading is alarming and the global medical community is still trying to get a grasp on what exactly is needed to fight this disease and prepare for the future.
+The COVID-19 virus is spreading at an alarming rate and the global medical community is still trying to get a grasp on what exactly is needed to fight this disease and prepare for the future.
 
 People in the medical world are asking the tech community for help to provide solutions. The way we're trying to help is to make sure that all the data that is there is available in easy ways for research. We're trying do this in a few diferent ways:
 
