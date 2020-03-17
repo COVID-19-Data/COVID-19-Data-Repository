@@ -5,8 +5,8 @@ The COVID-19 virus is spreading at an alarming rate and the global medical commu
 People in the medical world are asking the tech community for help to provide solutions. The way we're trying to help is to make sure that all the data that is there is available in easy ways for research. We're trying do this in a few diferent ways:
 
 - Collect all the data from sources like NGO's and governments
-- Convert the sources to CSV format
 - Validate, sanitize & normalize the data
+- Convert the sources to CSV format
 - Categorise the data and create useable datasets for research
 - Make the data available by creating packages for data analysis tools frameworks and languages like R, Python (pip), Matlab and SPSS
 
