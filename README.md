@@ -7,7 +7,6 @@ People in the medical world are asking the tech community for help to provide so
 
 - Collect all the data from sources like NGO's and governments
 - Validate, sanitize & normalize the data
-- Convert the sources to CSV format
 - Categorise the data and create useable datasets for research
 - Make the data available by creating packages for data analysis tools frameworks and languages like R, Python (pip), Matlab and SPSS
 
