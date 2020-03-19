@@ -16,6 +16,8 @@ Furthermore the repository contains importer scripts to automatically update the
 
 Feel free to reach out if you want to contribute, learn more or help in any other way. We have a slack channel for everyone interested in joining: [https://join.slack.com/t/covid19data/shared_invite/zt-cn3usek1-QJGmq5MJRi20ZmLQPaO2pg](https://join.slack.com/t/covid19data/shared_invite/zt-cn3usek1-QJGmq5MJRi20ZmLQPaO2pg).
 
+COVID-19 Data Repository is open source and isn't associated with any particular company or organisation.
+
 ## Sources
 
 Sources contain original datasets, mainly from Governments or NGO's.
