@@ -1,4 +1,5 @@
 # COVID-19 Data Repository
+The COVID-19 Data Repository is a data repository that contains all kinds of information available about the COVID-19 virus, we gather, sanitize, normalize & categorise data daily from sources like NGO's and Governments, to make them available for research. 
 
 The COVID-19 virus is spreading at an alarming rate and the global medical community is still trying to get a grasp on what exactly is needed to fight this disease and prepare for the future.
 
@@ -6,7 +7,6 @@ People in the medical world are asking the tech community for help to provide so
 
 - Collect all the data from sources like NGO's and governments
 - Validate, sanitize & normalize the data
-- Convert the sources to CSV format
 - Categorise the data and create useable datasets for research
 - Make the data available by creating packages for data analysis tools frameworks and languages like R, Python (pip), Matlab and SPSS
 
